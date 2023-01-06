@@ -1,0 +1,11 @@
+{
+  "name": "@wcd/q1blue.basecustomwebcomponent-lckohus1",
+  "version": "0.0.0",
+  "description": "",
+  "license": "ISC",
+  "type": "module",
+  "homepage": "{{ homepage }}",
+  "scripts": {
+    "serve": "npx wcd-cli@latest serve Gbys2DahK550ppJevd8y --open"
+  }
+}
