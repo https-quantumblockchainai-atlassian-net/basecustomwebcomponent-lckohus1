@@ -1,0 +1,14 @@
+name: basecustomwebcomponent-lckohus1
+id: ari:cloud:compass:2261fd15-e484-47df-a3c1-3945f31f5015:component/e50c4fd7-4bca-45fe-87b2-62835b87da68/d7065b5b-192d-47b5-84e5-6e40b0cb54bb
+description: Created with WebComponents.dev
+configVersion: 1
+typeId: SERVICE
+fields:
+  tier: 4
+links: []
+relationships:
+  DEPENDS_ON: []
+labels:
+  - language:javascript
+  - source:github
+customFields: null
